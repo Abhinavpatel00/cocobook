@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "coco",
   description: "core computations",
-  base: '/cocobook/'
+  base: '/cocobook/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
