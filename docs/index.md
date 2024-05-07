@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "coco"
-  text: "core computations"
+  name: "COCO"
+  text: "Core Computations"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: intro
+      link: /intro
     - theme: alt
       text: API Examples
       link: /api-examples
